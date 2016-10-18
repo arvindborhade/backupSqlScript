@@ -1,6 +1,9 @@
 # backupSqlScript
 Backup Mysql for daily Backup 
 
+0 	2 	* 	* 	* 	/home/ucash23jk/public_html/mysql_backup_script.sh
+
+
 
 #!/bin/bash
 
